@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<jboss-deployment-structure>
+  <deployment>
+    <dependencies>
+      <module name="com.redhat.gss.sei"/>
+      <!-- <module name="com.redhat.gss.param"/> -->
+    </dependencies>
+  </deployment>
+</jboss-deployment-structure>
